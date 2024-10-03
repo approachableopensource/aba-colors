@@ -5,3 +5,5 @@ Scraped to the best of my ability from the aba site by inspecting the `.site-nav
 🤷‍♂️maybe this will be useful to someone?
 
 Extracted from color-spacer.
+
+![The json data visualized in color-spacer](./color-spacer.png)
